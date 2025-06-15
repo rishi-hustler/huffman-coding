@@ -1,5 +1,7 @@
 # Huffman Coding (Java)
 
+
+
 ## 📌 Overview
 
 **Huffman Coding** is a **lossless data compression algorithm** that assigns **variable-length binary codes** to characters based on their frequencies.

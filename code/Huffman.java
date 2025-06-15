@@ -1,6 +1,8 @@
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
+// BY RISHI HUSTLER
+
 // Node of Huffman Tree
 class HuffmanNode {
     char ch;
